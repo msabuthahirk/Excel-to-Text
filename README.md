@@ -13,7 +13,10 @@ pip3 install --upgrade xlrd
 
 for execution:
 just run
-
+<code>
 python gui.py
+</code>
 or
+<code>
 python3 hui.py
+</code>
