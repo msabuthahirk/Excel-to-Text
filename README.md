@@ -16,7 +16,7 @@ just run
 <code>
 python gui.py
 </code>
-or
+ or
 <code>
-python3 hui.py
+python3 gui.py
 </code>
